@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="1A05C932-6DCB-455E-9B4C-5C0D2A2F0F59" ModuleId="KnowYourGPA.Web.Tests" />
+  <Module PersistentId="D5550F63-F0D7-4763-BF43-F278BFCD7979" ModuleId="KnowYourGPA.Web" />
+</Modules>

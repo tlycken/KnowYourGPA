@@ -1,0 +1,6 @@
+D:\Tomas\GitHub Repos\KnowYourGPA\KnowYourGPA.Web\bin\KnowYourGPA.Web.dll
+D:\Tomas\GitHub Repos\KnowYourGPA\KnowYourGPA.Web\bin\KnowYourGPA.Web.pdb
+D:\Tomas\GitHub Repos\KnowYourGPA\KnowYourGPA.Web\bin\EntityFramework.dll
+D:\Tomas\GitHub Repos\KnowYourGPA\KnowYourGPA.Web\bin\EntityFramework.xml
+D:\Tomas\GitHub Repos\KnowYourGPA\KnowYourGPA.Web\obj\Debug\KnowYourGPA.Web.dll
+D:\Tomas\GitHub Repos\KnowYourGPA\KnowYourGPA.Web\obj\Debug\KnowYourGPA.Web.pdb

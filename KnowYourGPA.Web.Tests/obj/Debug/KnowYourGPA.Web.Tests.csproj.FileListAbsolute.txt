@@ -1,0 +1,12 @@
+D:\Tomas\GitHub Repos\KnowYourGPA\KnowYourGPA.Web.Tests\obj\Debug\KnowYourGPA.Web.Tests.csprojResolveAssemblyReference.cache
+D:\Tomas\GitHub Repos\KnowYourGPA\KnowYourGPA.Web.Tests\bin\Debug\KnowYourGPA.Web.Tests.dll
+D:\Tomas\GitHub Repos\KnowYourGPA\KnowYourGPA.Web.Tests\bin\Debug\KnowYourGPA.Web.Tests.pdb
+D:\Tomas\GitHub Repos\KnowYourGPA\KnowYourGPA.Web.Tests\bin\Debug\FluentAssertions.dll
+D:\Tomas\GitHub Repos\KnowYourGPA\KnowYourGPA.Web.Tests\bin\Debug\KnowYourGPA.Web.dll
+D:\Tomas\GitHub Repos\KnowYourGPA\KnowYourGPA.Web.Tests\bin\Debug\nunit.framework.dll
+D:\Tomas\GitHub Repos\KnowYourGPA\KnowYourGPA.Web.Tests\bin\Debug\KnowYourGPA.Web.pdb
+D:\Tomas\GitHub Repos\KnowYourGPA\KnowYourGPA.Web.Tests\bin\Debug\FluentAssertions.pdb
+D:\Tomas\GitHub Repos\KnowYourGPA\KnowYourGPA.Web.Tests\bin\Debug\FluentAssertions.xml
+D:\Tomas\GitHub Repos\KnowYourGPA\KnowYourGPA.Web.Tests\bin\Debug\nunit.framework.xml
+D:\Tomas\GitHub Repos\KnowYourGPA\KnowYourGPA.Web.Tests\obj\Debug\KnowYourGPA.Web.Tests.dll
+D:\Tomas\GitHub Repos\KnowYourGPA\KnowYourGPA.Web.Tests\obj\Debug\KnowYourGPA.Web.Tests.pdb

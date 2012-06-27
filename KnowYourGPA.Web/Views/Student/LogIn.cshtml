@@ -1,0 +1,12 @@
+﻿@model dynamic
+@{
+	ViewBag.Title = "Log in";
+	Layout = "_Layout";
+}
+<h2>
+	Log in</h2>
+@Html.BeginForm("LogIn"){ 
+@Html.AntiForgeryToken();
+
+@Html.TextBox("username");
+}
